@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958612893819",
+    "project_id": "medibuddy-aff20",
+    "storage_bucket": "medibuddy-aff20.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958612893819:android:cbea58b174533de64df2de",
+        "android_client_info": {
+          "package_name": "com.example.medibuddy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgT30sHMPe6nXFKkiOpCVO4Nxw-lBI6IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
