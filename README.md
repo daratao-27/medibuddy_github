@@ -20,20 +20,6 @@ Track medications, watch your stock, get AI-powered insights, and restock with N
 
 </div>
 
-<br/>
-
-## Demo video
-
-<div align="center">
-
-<a href="https://youtu.be/QjRIEAsBW6U">
-  <img src="https://img.youtube.com/vi/QjRIEAsBW6U/hqdefault.jpg" width="480" alt="Watch the MediBuddy demo on YouTube"/>
-</a>
-
-<sub>Click to watch the full walkthrough on YouTube.</sub>
-
-</div>
-
 ## Contents
 
 - [Overview](#overview)
