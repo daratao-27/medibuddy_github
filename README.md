@@ -420,11 +420,6 @@ Includes a unit test for the cart pack-size maths (`totalUnits = quantity x pack
 - **AI output is informational.** Always check with a pharmacist or doctor before changing how you take any medication.
 - Keep API keys out of public repositories. Use your own keys and rotate any that have been shared.
 
-## Author
-
-**Tao Yi Yu Dara**<br/>
-Temasek Polytechnic, School of Informatics & IT. MBAP Project, Part 3.
-
 ### Acknowledgements
 
 - [Groq](https://console.groq.com/docs) for LLM inference
